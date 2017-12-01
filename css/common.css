@@ -9,8 +9,6 @@ dl, dt, dd, ul, li, form, table, tr, th, td {
 }
 body {
 	font-size: 100%;
-	color: #000;
-	background-color:#aaa;
 }
 #container {
 	width: 980px;
