@@ -1,6 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
 
+#access .title {
+	color: red;
+}
+
 #header #main_visual {
 	clear: left;
 	position: relative;
